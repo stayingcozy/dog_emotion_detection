@@ -1,4 +1,4 @@
-# dog_emotion_detection
+# dog emotion detection
 detect dog emotion through Deep Learning
 
 ## Dataset
