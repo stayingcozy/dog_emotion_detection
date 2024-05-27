@@ -2,3 +2,6 @@
 *logs
 *save_weights
 *.json
+saved_model/*
+shared_models/*
+.ipynb_checkpoints/*
