@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="assets/dogEmotionDetectionLogo.png" height="200" width="200">
+</p>
+
 # dog emotion detection
 detect dog emotion through Deep Learning
 
